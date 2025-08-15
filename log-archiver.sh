@@ -20,16 +20,6 @@ fi
 TARGETLOGDIR="$1"
 DESTDIR="$2"
 
-# This script should only take 2 arguments:
-# 1) Log directory to compress.
-# 2) Destination directory to store the compressed logs.
-#
-# If more than 2 arguments are supplied to the script, then ...
-# it should write an error to stderr.
-#
-# If the Destination directory does not exist, then Destination
-# directory should be created.
-
 
 date_time=$(date +%Y%m%d_%H%M%S)
 ARCHIVE_NAME="logs_archive_$date_time.tar.gz"
