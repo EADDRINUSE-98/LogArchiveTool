@@ -32,7 +32,7 @@ chmod 744 log-archiver.sh
 ```
 6. Run this command to make an archive and store it to some other location:
 ```sh
-./loglog-archiver.sh target-dir/ /tmp
+./log-archiver.sh target-dir/ /tmp
 ```
 # Format of Archive Name
 ```sh
