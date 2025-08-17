@@ -41,4 +41,4 @@ logs_archive_20250815_203747.tar.gz
 1. `20250815` - Date of creation in `yyyymmdd` format.
 2. `203747` - Time of creation in `hhmmss` format.
 # Considerations
-Please keep in mind that is script is not the most optimal solution. So, feel free to temper with this script and make your own solution from it.
+Please keep in mind that this script is not the most optimal solution. So, feel free to temper with this script and make your own solution from it.
